@@ -4,6 +4,9 @@ import Main from "./components/Main"
 
 export default function App() {
     return (
-         <div className = "component"> <Navbar /> <Main /></div>     
+         <div className = "component"> 
+         <Navbar /> 
+         <Main />
+         </div>     
     )
 }
